@@ -1,6 +1,6 @@
 # Windows Live Data Gathering using Windows Sysinternals 
 
-A batch script to document key information a live Windows machine duirng the digital forensics process. 
+A batch script to document key information on a live Windows machine duirng the digital forensics process. 
 
 ## Usage 
 
